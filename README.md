@@ -1,1 +1,1 @@
-# rna-transcriptor
+# rna-transcription
